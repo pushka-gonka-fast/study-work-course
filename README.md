@@ -1,2 +1,3 @@
-# study-work-course
-course plan &amp; some information example 
+# Курс VBA
+Этот курс разработан для пошагового изучения VBA с примерами заданий
+Задания распогалаются в скачиваемых материалах
